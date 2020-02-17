@@ -1,0 +1,46 @@
+SENSOR
+doesn't exist yet
+0
+false
+SENSOR HISTORY
+Sensor Added
+Random entry to see if this works
+another entry
+Last entry
+END SENSOR HISTORY
+SENSOR
+also doesn't exist yet
+1
+true
+SENSOR HISTORY
+Sensor Added
+entry a
+entry b
+entry c
+entry d
+entry e
+entry f
+entry g
+entry h
+entry i
+entry j
+Last entry
+END SENSOR HISTORY
+SENSOR
+third fake sensor
+2
+false
+SENSOR HISTORY
+Sensor Added
+entry anhtaoensutaoeu
+entry beeee
+entry c944444444444444444
+entry d3
+entry e4444444444444haoulrcaoelruchaoelua9oceu
+entry f444
+entry g44
+entry h4
+entry i44
+entry j4444444
+END SENSOR HISTORY
+END FILE
